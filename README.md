@@ -16,7 +16,7 @@ SquashClubAPI is a .NET 8 web API designed to manage a squash club's user regist
 - C# 12.0
 - Entity Framework Core
 - BCrypt.Net for password hashing
-- Microsoft SQL Server (or any other supported database)
+- SQLite Server (or any other supported database)
 
 ## Getting Started
 
